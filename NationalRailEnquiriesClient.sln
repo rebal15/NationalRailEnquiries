@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NationalRailEnquiriesClient", "NationalRailsEnquiriesClient\NationalRailEnquiriesClient.csproj", "{7AE755D7-E82C-4EB9-8FE7-DD75B7F93D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NationalRailEnquiriesTest", "NationalRailEnquiriesTest\NationalRailEnquiriesTest.csproj", "{78489D0B-677D-4635-812C-10B415F136B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE755D7-E82C-4EB9-8FE7-DD75B7F93D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE755D7-E82C-4EB9-8FE7-DD75B7F93D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE755D7-E82C-4EB9-8FE7-DD75B7F93D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE755D7-E82C-4EB9-8FE7-DD75B7F93D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78489D0B-677D-4635-812C-10B415F136B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78489D0B-677D-4635-812C-10B415F136B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78489D0B-677D-4635-812C-10B415F136B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78489D0B-677D-4635-812C-10B415F136B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285D38B5-7C88-4CC4-96A9-EC1AF6EF4D23}
+	EndGlobalSection
+EndGlobal
